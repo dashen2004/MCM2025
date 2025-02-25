@@ -4,9 +4,9 @@ Welcome to our MCM2025  repository! This repository contains all materials gener
 
 ## Repository Quick Navigation
 
-- **2502406.pdf/**: Our competition paper.
-- **code/**: Contains all code related to the competition.
-- **image/**: Contains images used in papers.
+- [paper](2502406.pdf) :Our competition paper.
+- [code](code) : Contains all code related to the competition.
+- [image](image) : Contains images used in papers.
 
 ---
 
@@ -40,8 +40,8 @@ Welcome to our MCM2025  repository! This repository contains all materials gener
 
 If you have any questions or suggestions, please contact us via:
 
-- Email: [Team Leader's E-mail](scyyg6@nottingham.edu.cn)
-- GitHub Issues: [Issues Page](https://github.com/your-repo/issues)
+- Email: scyyg6@nottingham.edu.cn
+- GitHub Issues: [Issues Page](https://github.com/dashen2004/MCM2025/issues)
 
 ---
 
